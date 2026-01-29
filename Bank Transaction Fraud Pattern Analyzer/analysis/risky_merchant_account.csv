@@ -1,0 +1,4 @@
+account_id,total_transactions,risky_transactions,risky_transaction_ratio
+100317,24,13,0.5416666666666666
+100035,31,13,0.41935483870967744
+100243,20,8,0.4
